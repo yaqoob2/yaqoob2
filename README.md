@@ -61,18 +61,6 @@ Currently Learning:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yaqoob2&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yaqoob2&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
-
-</div>
-
----
-
 ## 🎯 Current Focus
 
 - Building real-world full stack applications
